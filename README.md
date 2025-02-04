@@ -1,4 +1,4 @@
-## Opa! Me chamo João Vitor <img src="https://cdn.discordapp.com/attachments/1110613543012810883/1336120709847580672/701a53bf-d18a-427f-96cc-ac5ad807ccb9.gif?ex=67a2a6e1&is=67a15561&hm=1eea41078202c6ac29d65e4680034cf2bda67789b328fc8453b3f6ddbce4587e&" width="90" align="right"/> 
+## Opa! Me chamo João Vitor <img src="https://cdn.discordapp.com/attachments/1110613543012810883/1336120709847580672/701a53bf-d18a-427f-96cc-ac5ad807ccb9.gif?ex=67a2a6e1&is=67a15561&hm=1eea41078202c6ac29d65e4680034cf2bda67789b328fc8453b3f6ddbce4587e&" width="110" align="right"/> 
 
 ### 🚀 Desenvolvedor Full Stack em constante evolução 
 
@@ -21,7 +21,6 @@ Além de programar, estou sempre focado em aprender boas práticas de código e 
 
 ### 🔥 Linguagens Mais Usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jv22-ofc&layout=compact&theme=radical) 
-
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorantonio46@gmail.com)  
