@@ -6,7 +6,8 @@ Estou sempre explorando novas tecnologias e aprimorando minhas habilidades para 
 
 Além de programar, estou sempre focado em aprender boas práticas de código e otimização de performance, garantindo que minhas aplicações sejam eficientes e bem estruturadas. 
 
-### 🔍 Curiosidade: Sou apaixonado por tecnologia e adoro encarar novos desafios para evoluir constantemente! 
+### 🔍 Curiosidade: 
+Sou apaixonado por tecnologia e adoro encarar novos desafios para evoluir constantemente! 
 
 ### 🛠️ Tecnologias que uso  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
